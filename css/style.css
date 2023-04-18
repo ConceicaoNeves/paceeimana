@@ -393,10 +393,10 @@ footer .left a {
     }
 
     #contato {
-        font-size: 10px;
+        font-size: 14px;
     }
     #rdp {
-        font-size: 10px;
+        font-size: 14px;
     }
     .footer .left {
         width: 30%;
@@ -407,6 +407,6 @@ footer .left a {
         margin-top: 10px;
     }
     .footer .left a.voltar {
-        font-size: 8px;
+        font-size: 14px;
     }
 }
