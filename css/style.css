@@ -66,8 +66,14 @@ header {
     background-attachment: fixed;
     position: relative;
     overflow: hidden;
+   
 }
 
+header .icon21{
+    height: 150px;
+    width: auto;
+    margin: 2%;
+}
 
 
 .icon {
@@ -75,24 +81,20 @@ header {
     width: auto;
     margin: 2%;
 }
-.icon21 {
-    height: 150px;
-    width: auto;
-    margin: 2%;
-}
+
 
 h1 {
     font-size: 30px;
     margin-bottom: 10px;
 }
 
+.txt {
+    text-align: justify;
+}
+
 h3,
 p {
     margin-bottom: 10px;
-}
-
-.txt {
-    text-align: justify;
 }
 
 .botao {
