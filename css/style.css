@@ -151,6 +151,8 @@ p {
 .icon {
     display: inline-block;
     margin: 3%;
+    width: 15%;
+    height: auto;
 }
 
 #fotos{
@@ -370,6 +372,12 @@ footer .left a {
     }
     #servicos {
         display: block;
+    }
+    .icon {
+        display: inline-block;
+        margin: 3%;
+        width: 15%;
+        height: auto;
     }
 
     .container {
