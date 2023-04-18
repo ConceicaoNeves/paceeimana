@@ -3,7 +3,7 @@
     --royal-purple-light: #5E376D;
     --royal-purple-dark: #462354;
     --white: #fff;
-    --backgroud: #e5d7eb;
+    --backgroud: #ffffff;
 }
 
 * {
@@ -58,7 +58,7 @@ a {
 }
 
 header {
-    background: url('https://fotografiadicas.com.br/wp-content/uploads/2018/07/112.1-fotografo-iniciante-fotografia-dicas-min.png');
+    background-color:#fae3f4;
     text-align: center;
     width: 100%;
     height: auto;
@@ -66,17 +66,9 @@ header {
     background-attachment: fixed;
     position: relative;
     overflow: hidden;
-    border-radius: 0 0 85% 85% / 30%;
 }
 
-header .overlay {
-    width: 100%;
-    height: 100%;
-    padding: 20px;
-    color: #FFF;
-    text-shadow: 1px 1px 1px #333;
-    background-image: linear-gradient( 135deg, #683f8369 10%, #a287acdf 90%);
-}
+
 
 .icon {
     height: 40px;
@@ -99,13 +91,17 @@ p {
     margin-bottom: 10px;
 }
 
+.txt {
+    text-align: justify;
+}
+
 .botao {
     border: none;
     outline: none;
     padding: 10px 20px;
     border-radius: 50px;
     color: #333;
-    background:#d5c3dc;
+    background:#f1cee8;
     margin-bottom: 50px;
 }
 
@@ -119,9 +115,9 @@ p {
 }
 .container-sobre{
     text-align: center;
-    margin: 3%;
+    margin: 1%;
     width: 70%;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
 }
 
 #servicos {
@@ -148,7 +144,7 @@ p {
 .servico {
     margin: 1%;
     width: 48%;
-    background-color: #d5c3dc;
+    background-color: #e9e5ea;
     border-radius: 5px;
     border-style: outset;
 }
@@ -358,7 +354,7 @@ footer .left a {
         cursor:auto;
     }
     header {
-        background: url('https://fotografiadicas.com.br/wp-content/uploads/2018/07/112.1-fotografo-iniciante-fotografia-dicas-min.png');
+        background-color:#f6d1f0;
         text-align: center;
         width: 100%;
         height: auto;
