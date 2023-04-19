@@ -306,7 +306,7 @@ footer .left a {
         height: 0;
         z-index: 1;
         visibility: hidden;
-        overflow-y: hidden;
+        
         transition: 0.5s;
     }
     .menu a {
