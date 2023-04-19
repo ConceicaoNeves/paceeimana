@@ -365,8 +365,7 @@ footer .left a {
         background-size: cover;
         background-attachment: fixed;
         position: relative;
-        overflow: hidden;
-        border-radius: 0 0 5% 60% / 10%;
+        
     }
     
     .service {
@@ -378,7 +377,7 @@ footer .left a {
     .icon {
         display: inline-block;
         margin: 3%;
-        width: 15%;
+        width: 22%;
         height: auto;
     }
 
